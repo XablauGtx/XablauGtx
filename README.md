@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td valign="top" width="220px">
-      <img align="left" height="200" src="./personagem.gif"  />
+      <img align="left" height="200" src=".assets/personagem.gif"  />
     </td>
     <td valign="top">
       <div align="center">
