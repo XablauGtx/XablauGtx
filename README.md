@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td valign="top" width="220px">
-      <img align="left" height="200" src="https://raw.githubusercontent.com/XablauGtx/XablauGtx/main/personagem.gif"  />
+      <img align="left" height="200" src="https://raw.githubusercontent.com/XablauGtx/XablauGtx/main/assets/personagem.gif"  />
     </td>
     <td valign="top">
       <div align="center">
